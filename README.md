@@ -1,1 +1,1 @@
-# Fatkhullin_IS
+# Fatkhullin_IS Курсовой проект "Налоговый калькулятор"
